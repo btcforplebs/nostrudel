@@ -10,7 +10,7 @@ noStrudel is a web app for exploring the [nostr](https://github.com/nostr-protoc
 
 The goal of this project is to build a nostr client that lets a user explore the nostr protocol by showing as much information as possible and letting the user view the underlying events.
 
-Live Instance: [nostrudel.ninja](https://nostrudel.ninja)
+Live Instance: [nostrudel.btcforplebs.com](https://nostrudel.btcforplebs.com)
 
 There are many features missing from this client and I wont get around to implementing everything. but if you like the client you are welcome to use it.
 

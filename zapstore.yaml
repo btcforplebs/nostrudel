@@ -2,7 +2,7 @@ identifier: ninja.nostrudel
 name: noStrudel
 tags: nostr
 changelog: CHANGELOG.md
-homepage: https://nostrudel.ninja
+homepage: https://nostrudel.btcforplebs.com
 description: A sandbox for exploring nostr
 icon: public/icon-512-maskable.png
 repository: https://github.com/hzrd149/nostrudel

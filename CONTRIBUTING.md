@@ -21,7 +21,7 @@ Thank you for considering contributing to the project! I welcome contributions f
 ## Issues and Bug Reports
 
 If you find a bug or have an idea for a new feature, please create an issue in our repository.
-Be sure to include a clear description of the problem or feature request, and what version you found the bug in. (either `nostrudel.ninja` or `next.nostrudel.ninja`)
+Be sure to include a clear description of the problem or feature request, and what version you found the bug in. (either `nostrudel.btcforplebs.com` or `next.nostrudel.btcforplebs.com`)
 
 ## License
 
